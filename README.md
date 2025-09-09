@@ -79,6 +79,7 @@ Para que seu aplicativo em React Native ou Expo se conecte a esta API, você pre
 1. **Encontre seu endereço IPv4 local (ex: 192.168.10.4).**
 
 2. **No seu código, use a URL da API da seguinte forma:**
+   
 const API_URL = 'http://192.168.10.4:3000/api/animes';
 
 ### Garanta que tanto o seu computador quanto o seu dispositivo móvel estejam conectados na mesma rede Wi-Fi.
